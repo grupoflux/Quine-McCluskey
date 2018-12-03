@@ -7,6 +7,6 @@ pip install scriptedforms
 
 Then run the following in your terminal
 ```
-scriptedforms quick-start.md
+scriptedforms Quine-McCluskey.md
 ```
 If everything worked, a Scripted Form should open within your default browser. You should be able to interact with it and utilize the Quine-McCluskey algorithm
